@@ -1,0 +1,17 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+streamlit==1.38.0
+torch==2.3.1
+transformers==4.44.2
+numpy==1.26.4
+pillow==10.4.0
+pandas==2.2.2
+scikit-learn==1.5.2
+plotly==5.24.1
+requests==2.32.3
+groq==0.11.0
+httpx==0.27.2
+sentence-transformers==3.0.1
+# only needed locally for index_dataset.py (harmless on Cloud, remove to speed up builds)
+pyarrow==17.0.0
+datasets==2.21.0
+tqdm==4.66.5
