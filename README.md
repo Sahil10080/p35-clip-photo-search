@@ -10,7 +10,7 @@ Streamlit app (Generative AI mini-project, Track C) that searches a photo collec
 | U4 | Generative fallback (SD-Turbo / Pollinations) when the best score is below the threshold |
 | U5 | Bias Audit page and keyword safety guardrail |
 
-**Live app:** <paste Streamlit Community Cloud URL>
+**Live app:** https://https://p35-clip-photo-search.streamlit.app/
 
 ## Run locally
 ```
